@@ -1,5 +1,5 @@
 ## Jim Cser's contributions to GitLab
-### API Documentation -- Conversion of Markdown files to YAML OpenAPI spec  
+### Proof-of-concept for interactive API Documentation
 
 Interactive [API Viewer](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/api/openapi/openapi.yaml)  
 

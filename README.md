@@ -5,4 +5,4 @@ Interactive [API Viewer](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/
 
 API Viewer [Documentation](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/api/openapi/openapi_interactive.md)  
 
-OpenAPI format [YAML file](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/api/openapi/v4/access_requests.yaml)
+OpenAPI YAML [endpoint](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/api/openapi/v4/access_requests.yaml)
